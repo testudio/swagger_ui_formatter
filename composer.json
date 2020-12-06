@@ -20,13 +20,8 @@
     "require-dev": {
         "bower-asset/swagger-ui": "^3.32.2",
         "composer/installers": "^1.6",
-<<<<<<< HEAD
-        "drupal/core-composer-scaffold": "^8.9.1 || ^9",
-        "drupal/core-dev": "^8.9.1 || ^9",
-=======
-        "drupal/core-composer-scaffold": "~8.9.1 || ^9",
-        "drupal/core-dev": "~8.9.1 || ^9",
->>>>>>> a7b63ec93f78ad955e30d2a5cc85fbe0bc3bf8a2
+        "drupal/core-composer-scaffold": "~8.9.1 || ^9.1",
+        "drupal/core-dev": "~8.9.1 || ^9.1",
         "drupal/devel": "^4.0",
         "oomphinc/composer-installers-extender": "^1.1",
         "pronovix/drupal-qa": "^2.11",
